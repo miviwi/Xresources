@@ -1,0 +1,7 @@
+URxvt.depth: 32
+URxvt.background: rgba:0000/0000/0200/e800
+
+URxvt.scrollBar: False
+
+URxvt.font: xft:xos4 Terminess Powerline:size=10
+URxvt.internalBorder: 4
